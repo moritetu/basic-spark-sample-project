@@ -1,0 +1,12 @@
+*.class
+*.log
+.classpath
+.settings
+/out
+
+target/
+project/boot/
+project/plugins/project/
+*swp
+*swo
+*~
